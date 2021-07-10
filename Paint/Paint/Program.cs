@@ -17,6 +17,7 @@ namespace Paint
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //Github için deneme yorum satırı
         }
     }
 }
